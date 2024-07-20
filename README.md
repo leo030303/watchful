@@ -52,3 +52,4 @@ With that out of the way,
 * Update your PineTime to Infinity 1.13.0
 * Download the `watchful-reloader` from the [latest release](https://github.com/lulf/watchful/releases)
 * Use whatever [update mechanism that works with InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime/blob/main/doc/gettingStarted/updating-software.md).
+ This is for a test of workflows by Leo.
